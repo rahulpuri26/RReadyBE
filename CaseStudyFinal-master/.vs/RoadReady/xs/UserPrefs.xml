@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{E34784DE-1F67-40BD-9868-4DC363C8BDA4}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../RoadReadyTests/UserServiceTest.cs">
+    <Files>
+      <File FileName="appsettings.json" />
+      <File FileName="DTO/CarDTO.cs" />
+      <File FileName="Exceptions/CarNotFoundException.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Authentication/ApplicationUser.cs" />
+      <File FileName="Authentication/AuthenticationController.cs" />
+      <File FileName="Authentication/LoginModel.cs" />
+      <File FileName="Authentication/RegisterModel.cs" />
+      <File FileName="Authentication/UserRoles.cs" />
+      <File FileName="Controllers/CarController.cs" />
+      <File FileName="Controllers/PaymentController.cs" />
+      <File FileName="Controllers/ReservationController.cs" />
+      <File FileName="Controllers/ReviewController.cs" />
+      <File FileName="Data/ApplicationDbContext.cs" />
+      <File FileName="SQLQuery_1.sql" />
+      <File FileName="Models/Car.cs" />
+      <File FileName="Models/Review.cs" />
+      <File FileName="Controllers/UserController.cs" Line="130" Column="1" />
+      <File FileName="Repositories/IUserService.cs" />
+      <File FileName="Models/User.cs" />
+      <File FileName="../RoadReadyTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="../RoadReadyTests/CarServiceTest.cs" Line="10" Column="25" />
+      <File FileName="../RoadReadyTests/PaymentServiceTest.cs" Line="14" Column="1" />
+      <File FileName="../RoadReadyTests/ReservationServiceTest.cs" Line="13" Column="1" />
+      <File FileName="../RoadReadyTests/ReviewServiceTest.cs" Line="13" Column="1" />
+      <File FileName="../RoadReadyTests/UserServiceTest.cs" Line="14" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoadReady" expanded="True">
+            <Node name="RoadReady">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="RoadReadyTests">
+              <Node name="UserServiceTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RoadReady">
+            <Node name="RoadReadyTests" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RoadReady PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
